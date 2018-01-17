@@ -1,4 +1,5 @@
 # Django starter app for Web App on Linux
+[MSFT docker tutorial](https://github.com/aaronmsft/tech-summit-toronto/tree/in-flight)
 
 A simple Python Django application running in a Docker container. The custom image uses port 8000. 
 
